@@ -57,3 +57,5 @@ function say(greeting, firstName) {
 function add(x, y) {
   return x + y;
 }
+
+console.log(add(1, 2));
