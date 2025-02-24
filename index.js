@@ -67,8 +67,8 @@ function say(greeting, firstName) {
 console.log(say("Hello", "Liz"));
 
 function say(greeting, firstName) {
-  return `${greeting}, ${firstName}!`;
   console.log("I was called");
+  return `${greeting}, ${firstName}!`;
 }
 
-console.log(say("Howdy", "patner"));
+console.log(say("Howdy", "partner"));
