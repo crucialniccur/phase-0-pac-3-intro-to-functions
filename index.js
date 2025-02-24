@@ -53,3 +53,7 @@ function say(greeting, firstName) {
   console.log("greeting: ", greeting);
   console.log(`${greeting}, @{firstName}!`);
 }
+
+function add(x, y) {
+  return x + y;
+}
