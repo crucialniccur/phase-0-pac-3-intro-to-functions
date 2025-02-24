@@ -15,3 +15,8 @@ function sayHelloGuadalupe() {
 }
 
 sayHelloGuadalupe();
+
+function sayHelloToLiz() {
+    console.log('Hello, Liz!');
+}
+sayHelloToLiz();
