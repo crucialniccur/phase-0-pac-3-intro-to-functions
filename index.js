@@ -8,3 +8,10 @@ function sayHello() {
 }
 
 sayHello();
+
+
+function sayHelloGuadalupe() {
+    console.log('Hello, Guadalupe!');
+}
+
+sayHelloGuadalupe();
