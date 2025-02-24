@@ -39,4 +39,10 @@ sayHelloTo("R2-D2");
 sayHelloTo(1);
 sayHelloTo("Mati");
 
-console.log(firstName);
+//console.log(firstName);
+
+function say(greeting, firstName) {
+  console.log(`${greeting}, ${firstName}!`);
+}
+
+say("Goodbye", "Julio");
