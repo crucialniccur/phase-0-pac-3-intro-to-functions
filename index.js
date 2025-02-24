@@ -19,4 +19,11 @@ sayHelloGuadalupe();
 function sayHelloToLiz() {
     console.log('Hello, Liz!');
 }
+
 sayHelloToLiz();
+
+function sayHelloToSamip() {
+    console.log('Hello, Samip!');
+}
+
+sayHelloToSamip();
