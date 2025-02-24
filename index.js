@@ -47,3 +47,9 @@ function say(greeting, firstName) {
 
 say("Goodbye", "Julio");
 say("Julio", "hello");
+
+function say(greeting, firstName) {
+  console.log("firstName: ", firstName);
+  console.log("greeting: ", greeting);
+  console.log(`${greeting}, @{firstName}!`);
+}
