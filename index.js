@@ -27,3 +27,8 @@ function sayHelloToSamip() {
 }
 
 sayHelloToSamip();
+
+
+sayHelloGuadalupe();
+sayHelloToLiz();
+sayHelloToSamip();
