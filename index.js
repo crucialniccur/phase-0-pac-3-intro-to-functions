@@ -46,3 +46,4 @@ function say(greeting, firstName) {
 }
 
 say("Goodbye", "Julio");
+say("Julio", "hello");
