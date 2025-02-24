@@ -51,7 +51,7 @@ say("Julio", "hello");
 function say(greeting, firstName) {
   console.log("firstName: ", firstName);
   console.log("greeting: ", greeting);
-  console.log(`${greeting}, @{firstName}!`);
+  console.log(`${greeting}, ${firstName}!`);
 }
 
 function add(x, y) {
