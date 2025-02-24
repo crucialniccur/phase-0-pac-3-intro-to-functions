@@ -32,3 +32,14 @@ sayHelloToSamip();
 sayHelloGuadalupe();
 sayHelloToLiz();
 sayHelloToSamip();
+
+
+function sayHelloTo(firstName) {
+    console.log(`Hello, ${firstName}!`);
+}
+
+sayHelloTo('Guadalupe');
+sayHelloTo('Jane');
+sayHelloTo('R2-D2');
+sayHelloTo(1);
+sayHelloTo('Mati');
