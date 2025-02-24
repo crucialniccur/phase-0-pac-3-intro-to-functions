@@ -59,3 +59,9 @@ function add(x, y) {
 }
 
 console.log(add(1, 2));
+
+function say(greeting, firstName) {
+  return `${greeting}, ${firstName}!`;
+}
+
+console.log(say("Hello", "Liz"));
